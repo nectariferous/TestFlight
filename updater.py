@@ -104,9 +104,15 @@ def main():
     output_file = 'output.json'  # Change this to your desired output file path
 
     urls = search_github_for_urls()
+    existing_results = load_existing_results(output_file)
+    existing_urls = {result['url'] for result in existing_results}
     results = []
 
     for url in urls:
+        if url in existing_urls:
+            logging.info(f"Skipping already processed URL: {url}")
+            continue
+
         logo_url = fetch_app_logo(url)
         if logo_url:
             app_name = fetch_app_name(url)
