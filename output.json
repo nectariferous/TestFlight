@@ -2473,5 +2473,30 @@
         "name": ".NET MAUI CRM",
         "url": "https://testflight.apple.com/join/R4YeuQ49",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/fb/22/f8fb228d-ec7f-ba77-42a3-9dc2865c39d5/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ProxyPin",
+        "url": "https://testflight.apple.com/join/gURGH6B4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/eb/0f/e4eb0fe1-e205-113d-cd7c-b1fba3554e50/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "DNSecure",
+        "url": "https://testflight.apple.com/join/A8GwCnq8",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/f3/e5/0bf3e5aa-6062-1542-bbb9-f35ea17ed83b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Mobile Minter",
+        "url": "https://testflight.apple.com/join/SlbRPkXG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/e9/14/efe91435-73ec-1561-a597-c3d8ce405536/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "moe.TV",
+        "url": "https://testflight.apple.com/join/3v0FALsY",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/4f/84dd4fdf-cbc9-e3c8-3bda-bef98b88d51d/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "01ForiOS",
+        "url": "https://testflight.apple.com/join/v8SyuzMT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/66/7d/00667d34-d62a-b727-e73b-7a9e2fc450db/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
     }
 ]
