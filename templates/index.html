@@ -4,6 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VorTex App Store</title>
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="VorTex App Store">
+    <meta property="og:description" content="Discover and download the latest apps and games from VorTex App Store.">
+    <meta property="og:image" content="https://example.com/vortex-app-store-og-image.jpg">
+    <meta property="og:url" content="https://example.com/vortex-app-store">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="VorTex App Store">
+    <meta name="twitter:description" content="Discover and download the latest apps and games from VorTex App Store.">
+    <meta name="twitter:image" content="https://example.com/vortex-app-store-og-image.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
     <style>
         :root {
             --bg-color: #f8f9fa;
@@ -191,19 +208,19 @@
         <div class="header">
             <h1>Search</h1>
             <div>
-                <button id="theme-toggle">🌓</button>
-                <div class="profile-icon"></div>
+                <button id="theme-toggle" aria-label="Toggle theme">🌓</button>
+                <div class="profile-icon" role="button" aria-label="User profile"></div>
             </div>
         </div>
 
         <div class="search-bar">
-            <input type="text" id="search-input" placeholder="Games, Apps, Stories and More">
+            <input type="text" id="search-input" placeholder="Games, Apps, Stories and More" aria-label="Search for apps and games">
         </div>
 
         <div class="section-title">Charts</div>
         <div class="charts">
-            <div class="chart-card" id="top-apps">Top Apps</div>
-            <div class="chart-card" id="top-games">Top Games</div>
+            <div class="chart-card" id="top-apps" tabindex="0" role="button">Top Apps</div>
+            <div class="chart-card" id="top-games" tabindex="0" role="button">Top Games</div>
         </div>
 
         <div class="section-title">Suggested</div>
@@ -232,12 +249,12 @@
                         const appItem = document.createElement('div');
                         appItem.className = 'app-item';
                         appItem.innerHTML = `
-                            <img src="${app.logo}" alt="${app.name}" class="app-icon">
+                            <img src="${app.logo}" alt="${app.name} logo" class="app-icon">
                             <div class="app-info">
                                 <div class="app-name">${app.name}</div>
                                 <div class="app-description">${app.description || 'No description available'}</div>
                             </div>
-                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')">View on TestFlight</button>
+                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')" aria-label="View ${app.name} on TestFlight">View on TestFlight</button>
                         `;
                         appList.appendChild(appItem);
                     });
@@ -253,7 +270,7 @@
         }
 
         function viewOnTestFlight(url) {
-            window.open(url, '_blank');
+            window.open(url, '_blank', 'noopener,noreferrer');
         }
 
         function searchApps() {
@@ -275,12 +292,12 @@
                         const appItem = document.createElement('div');
                         appItem.className = 'app-item';
                         appItem.innerHTML = `
-                            <img src="${app.logo}" alt="${app.name}" class="app-icon">
+                            <img src="${app.logo}" alt="${app.name} logo" class="app-icon">
                             <div class="app-info">
                                 <div class="app-name">${app.name}</div>
                                 <div class="app-description">${app.description || 'No description available'}</div>
                             </div>
-                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')">View on TestFlight</button>
+                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')" aria-label="View ${app.name} on TestFlight">View on TestFlight</button>
                         `;
                         appList.appendChild(appItem);
                     });
@@ -290,6 +307,7 @@
 
         function toggleTheme() {
             document.body.classList.toggle('dark-mode');
+            localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
         }
 
         window.addEventListener('scroll', () => {
@@ -305,6 +323,11 @@
         });
 
         document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+        // Load saved theme preference
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-mode');
+        }
 
         // Initial load
         loadApps(currentPage);
