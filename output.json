@@ -156,7 +156,7 @@
     },
     {
         "name": "Spotify - Music and Podcasts",
-        "url": "https://testflight.apple.com/join/1SyedSId",
+        "url": "https://testflight.apple.com/join/7lt2tesn",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/c5/a6/5dc5a6d3-e488-45d7-cbef-bd779736d87e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1920x1080bb-80.png"
     },
     {
@@ -168,11 +168,6 @@
         "name": "UniChar \u2014 Unicode Keyboard",
         "url": "https://testflight.apple.com/join/YKH3kGpt",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/ba/2b/77ba2be9-c64e-b8dd-7aa9-89d626bfefd9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
-    },
-    {
-        "name": "Spotify - Music and Podcasts",
-        "url": "https://testflight.apple.com/join/7lt2tesn",
-        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/c5/a6/5dc5a6d3-e488-45d7-cbef-bd779736d87e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1920x1080bb-80.png"
     },
     {
         "name": "M\u00f6bius Sync",
@@ -191,7 +186,7 @@
     },
     {
         "name": "Microsoft Outlook",
-        "url": "https://aka.ms/iOSInsiderOutlook",
+        "url": "https://testflight.apple.com/join/QkU4VS1s",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/34/ea/f934ead5-d6a5-c443-96b9-8de926eb2def/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
     },
     {
@@ -383,11 +378,6 @@
         "name": "Meditation Timer - Zenitizer",
         "url": "https://testflight.apple.com/join/QvKyRJ8x",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/5f/ec/145fecf6-0049-1b9f-bd14-245372df786f/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/1920x1080bb-80.png"
-    },
-    {
-        "name": "Microsoft Outlook",
-        "url": "https://testflight.apple.com/join/QkU4VS1s",
-        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/34/ea/f934ead5-d6a5-c443-96b9-8de926eb2def/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
     },
     {
         "name": "NS Travel Planner",
@@ -611,7 +601,7 @@
     },
     {
         "name": "Sleep Cycle - Tracker & Sounds",
-        "url": "https://testflight.apple.com/join/8RcEFqFF",
+        "url": "https://testflight.apple.com/join/tCeANbZi",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/7d/57/d17d571a-41f8-3d70-19e2-37ea2d68c7fa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
     },
     {
@@ -653,11 +643,6 @@
         "name": "Hanami - Manga Reader",
         "url": "https://testflight.apple.com/join/VUPzZpkc",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/71/32/85713207-9f59-f958-8e02-91df59d43018/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
-    },
-    {
-        "name": "Sleep Cycle - Tracker & Sounds",
-        "url": "https://testflight.apple.com/join/tCeANbZi",
-        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/7d/57/d17d571a-41f8-3d70-19e2-37ea2d68c7fa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
     },
     {
         "name": "Filmlog",
@@ -706,8 +691,8 @@
     },
     {
         "name": "Parcel - Delivery Tracking",
-        "url": "https://testflight.apple.com/join/fMeg6C4A",
-        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/c3/30/99c33097-74b4-c8a8-e569-0835aa7866b2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/1920x1080bb-80.png"
+        "url": "https://testflight.apple.com/join/GfswMZn4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/db/30/15db30d7-5b95-068f-80f5-8ba424257cd9/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/1920x1080bb-80.png"
     },
     {
         "name": "Health Auto Export - JSON+CSV",
@@ -880,11 +865,6 @@
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/fa/61/8ffa61f1-fd12-f0b5-fcb1-e93d4e68505a/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
     },
     {
-        "name": "Parcel - Delivery Tracking",
-        "url": "https://testflight.apple.com/join/GfswMZn4",
-        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/db/30/15db30d7-5b95-068f-80f5-8ba424257cd9/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/1920x1080bb-80.png"
-    },
-    {
         "name": "Microsoft 365 (Office)",
         "url": "https://testflight.apple.com/join/eHAKJBtM",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/65/71/90657165-905d-407a-1c46-0b865944f804/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/1920x1080bb-80.png"
@@ -1008,5 +988,1075 @@
         "name": "AdGuard  \u2014 adblock&privacy",
         "url": "https://testflight.apple.com/join/PMfu4nmW",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/7a/17/437a17b6-d310-7278-ec90-97de7512bf3c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Code App",
+        "url": "https://testflight.apple.com/join/EgZ8sE2P",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/95/ed/9f95ed37-4de6-56eb-78a4-0ae237abd65e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Pulse \u2013 Network Logger",
+        "url": "https://testflight.apple.com/join/1jcanE3q",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/4a/e7/d74ae7b5-579c-5565-cafb-a71d92640159/AppIcon-0-0-85-220-0-4-0-2x.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Monal - XMPP Chat",
+        "url": "https://testflight.apple.com/join/lLLlgHpB",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d0/5e/30d05eda-c4bf-f0c3-f112-5e46e50fcf7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Monal - XMPP Chatting",
+        "url": "https://testflight.apple.com/join/tGH2m5vf",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/22/74/76227430-4308-cd95-7d5e-a74a6c0c4a9e/AppIcon-0-0-2x_U007euniversal-0-1-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Flipper Mobile App",
+        "url": "https://testflight.apple.com/join/oLyR7YeT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/e2/a8/37e2a865-bab5-46ea-3ed0-1bfcfb314a58/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u95ea\u7535\u85e4",
+        "url": "https://testflight.apple.com/join/2Wx9jmUo",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/3f/e2/2f3fe299-de15-a1f1-7741-76e3f4a419a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Soralution",
+        "url": "https://testflight.apple.com/join/670hF438",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/e4/54/2ae45492-b03b-c6c3-abb1-212a2270c442/AppIcon-soralution-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Peach Bitcoin",
+        "url": "https://testflight.apple.com/join/wfSPFEWG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/be/8c/b8be8c8b-3e1c-ade6-a3ab-f3d5c6f942f2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Hiddify",
+        "url": "https://testflight.apple.com/join/e5OHNkaF",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/96/83/4796834d-dde7-2a66-4448-3ac1a38006f4/AppIcon-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Ensemble Cast",
+        "url": "https://testflight.apple.com/join/Pq1HzHqe",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/70/12/847012ae-e90e-a2ae-30c1-817047c506ee/AppIcon.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "winston for Reddit",
+        "url": "https://testflight.apple.com/join/3UF8bAUN",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/85/9a/3c859af0-c6aa-9cb7-f48a-e195214294bc/iconStandard-0-1x_U007epad-0-0-0-sRGB-GLES2_U002c0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Today's Budget - Money Tracker",
+        "url": "https://testflight.apple.com/join/qzRa88rJ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ac/40/84ac4035-87a1-d0c8-7d34-cf6629feae3a/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-P3-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "MATR1X FIRE",
+        "url": "https://testflight.apple.com/join/rFYKtoPC",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/5b/f9/135bf928-c85f-113d-a464-e8abea4ad306/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Buno",
+        "url": "https://testflight.apple.com/join/Ml8Cn0Fs",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/44/af/d544afca-3d4e-c344-827b-ffdd1bea49ee/AppIcon.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "Jusoor",
+        "url": "https://testflight.apple.com/join/1Obdkyq9",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/04/5e/6d045ec4-9f99-5a37-638e-47577ef64f5b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "PGArcher",
+        "url": "https://testflight.apple.com/join/6xQslzME",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/01/2d/98012d89-4cf1-6719-87b8-7c909a4c9ea1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Satsuma Wallet",
+        "url": "https://testflight.apple.com/join/QfWYprVO",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b5/a1/94b5a18b-6373-fbbb-55e5-a26079d20f8b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Changelog Publisher",
+        "url": "https://testflight.apple.com/join/4YdmtpbZ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/fc/18/57fc186b-72bc-c36d-df4b-4b88fb6ea9f2/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "push \u2013 workout counter",
+        "url": "https://testflight.apple.com/join/pyNg1Nhc",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/a6/b3/c1a6b3aa-ccf9-aa62-7be4-39b6eda2a75f/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "BOG X",
+        "url": "https://testflight.apple.com/join/r7gWXcHK",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/14/853f1479-2d53-793a-a8c9-3b6297406867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "KI Competitor",
+        "url": "https://testflight.apple.com/join/Bj4wQBC8",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/7e/19/6e7e1975-ed83-40a3-9bf6-47879a9828b6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ToneBarrier",
+        "url": "https://testflight.apple.com/join/LqGKPwdG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/fc/4e/b9fc4e75-69a4-553c-d0ba-7036d0aa8c35/ToneBarrierAppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Vultisig-v0",
+        "url": "https://testflight.apple.com/join/CHHICwnO",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/72/9a/79729a24-0257-2e7e-0b05-85192360525a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "VibeStir",
+        "url": "https://testflight.apple.com/join/JUr8BK4D",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/5d/0d/055d0d24-eb9a-093a-6c68-31d7040b8c28/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Lazy Soccer",
+        "url": "https://testflight.apple.com/join/4YpidcKp",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/e8/af/7ee8af6d-33b7-be74-06b1-24175eaf1d9c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Satpile - BTC Balance Tracker",
+        "url": "https://testflight.apple.com/join/t64ljQX9",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cb/e9/d9cbe9ee-bca9-f0c6-ad26-ea74c9df19ff/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Raseel",
+        "url": "https://testflight.apple.com/join/P0SFs7G8",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/fa/4b/13fa4bd9-d303-1950-93b0-a3acd4bdb651/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Indo-NonOfficiel",
+        "url": "https://testflight.apple.com/join/Hpb1XZzf",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/e9/cd/30e9cd39-4fc7-4f42-de4d-12333a3e51d5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Wavlake",
+        "url": "https://testflight.apple.com/join/eWnqECG4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e3/0d/ade30df5-ed23-f2e9-1611-2534788ba167/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "NgajiQuran",
+        "url": "https://testflight.apple.com/join/4ErE5nTw",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8b/b4/5a8bb4df-a6da-377e-85b5-f505001cb566/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Lupiiya Books",
+        "url": "https://testflight.apple.com/join/uCUSujtY",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/f9/a5/2df9a5e4-e214-2275-3710-d7182e2e2800/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ProfilePix: Style Your Avatar",
+        "url": "https://testflight.apple.com/join/cg1nQr43",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/ee/e6/d6eee628-28ad-1e1f-e2e6-5722f9a582b2/AppIcon-0-1x_U007ephone-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Solstream",
+        "url": "https://testflight.apple.com/join/eTFLYHzw",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/ae/71/57ae7159-0451-f73e-b44a-33fd6bd9928c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AmanaTa",
+        "url": "https://testflight.apple.com/join/7BbyzYKv",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/05/90/65059029-5f30-a2dc-b4ed-7ba53d642244/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u30ad\u30ba\u30ca\u30a6\u30a9\u30c3\u30c1-\u3042\u306a\u305f\u306e\u5927\u5207\u306a\u4eba\u3084\u7269\u3092\u5b88\u308b\u30a2\u30d7\u30ea-",
+        "url": "https://testflight.apple.com/join/7d8q3YuD",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e1/86/14e18663-e2fb-ee42-9c07-028f15235e2a/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "GSequencer",
+        "url": "https://testflight.apple.com/join/kIXRfXaz",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/89/0a/04890a52-0ea4-bf37-46d9-a94f527680d3/GSequencer.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Finqalab",
+        "url": "https://testflight.apple.com/join/Drb81A3W",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/4d/9d/244d9d98-8012-12dd-5083-41e84c437e6d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "DetonatorEP1",
+        "url": "https://testflight.apple.com/join/BLCKQDur",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/67/c5/f467c564-c7ab-cb70-cf01-112720b947d7/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Neboe",
+        "url": "https://testflight.apple.com/join/VfD0t0P7",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/66/cb/a066cb09-bd80-b0f0-a7d4-fdb47d3fe492/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Utgard: Path of Heroes",
+        "url": "https://testflight.apple.com/join/p90UlWdj",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/1c/c7/9e1cc761-4f5a-0c08-5be0-7bdde5ff760f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Nachos and Movies\u00a0",
+        "url": "https://testflight.apple.com/join/doaG1qHl",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/d0/dd/12d0ddd2-11c3-209c-aa36-97a7e8e91a66/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "FUTY - Fantasy Football",
+        "url": "https://testflight.apple.com/join/p27wWTGd",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/d4/d8/19d4d811-898e-6798-a79f-fdb8abfc9326/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Freebox Files",
+        "url": "https://testflight.apple.com/join/T8Op14Wg",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/2f/73/732f736b-7207-f1de-d923-16b4edbd4fdf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ChatyN",
+        "url": "https://testflight.apple.com/join/O1KUa1m3",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c6/3f/bac63f61-95fd-b2fe-93a6-69db9bb93932/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Cake Wallet",
+        "url": "https://testflight.apple.com/join/f9yFYx9H",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/86/10/058610fa-b372-180c-b2da-75008b53d123/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "RuBaRu",
+        "url": "https://testflight.apple.com/join/mbz7OTlH",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ea/8f/6eea8fe7-35b9-ee5b-7fb4-25c4ae81499d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ALVR",
+        "url": "https://testflight.apple.com/join/YoK2nuX6",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a6/22/0fa622d7-83ca-00b6-91a9-41ae843c69ef/AppIcon.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "TerraTrek",
+        "url": "https://testflight.apple.com/join/7jIs4sEX",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d9/77/84d97793-b374-2e73-1ad4-7276a68bcbd7/AppIcon-0-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "WillKey",
+        "url": "https://testflight.apple.com/join/wJT1sQ37",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/d8/98/60d89896-b682-80e4-4636-fbf1fcf3fdb9/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "FormTime",
+        "url": "https://testflight.apple.com/join/8oEvXjdL",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/43/89/8b438994-3775-1b74-579e-5aecc11402cc/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Lunch: Let's Grab Lunch",
+        "url": "https://testflight.apple.com/join/TXiRrJ2e",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/bd/84/23bd8404-4ca0-e2a6-a96f-b4bee0385d93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Photos Backup Anywhere",
+        "url": "https://testflight.apple.com/join/TcDH3ccO",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/91/96/f49196be-d580-5577-2bf6-29af370bf66c/AppIcon-0-0-85-220-0-4-0-2x.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Marklog",
+        "url": "https://testflight.apple.com/join/1OQuD2vJ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b0/13/54b013e4-a76e-29a8-101c-75e723548bb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "BOSSAY",
+        "url": "https://testflight.apple.com/join/RCCA7SsH",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/11/c5/ef11c593-8cd1-e61e-a091-0942521e7a73/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Read Trial",
+        "url": "https://testflight.apple.com/join/ZU5Nvw6a",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/c8/c2/d7c8c2e8-a449-cefa-ba06-35b635a662db/AppIcon-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "eGrocer Partner",
+        "url": "https://testflight.apple.com/join/Bmx2ZdOf",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/b2/70/53b270cb-64eb-e2e2-2602-6a2541016542/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "GoldChip-Teenpatti",
+        "url": "https://testflight.apple.com/join/Jlwzox2W",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/c0/e3/e0c0e398-818b-e1b1-8b3d-f50b2945bb25/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Obsessive Odissey",
+        "url": "https://testflight.apple.com/join/uYak5scv",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/63/bf/fe63bf94-9808-9d97-7808-cebec4553f83/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Foodyman Single POS",
+        "url": "https://testflight.apple.com/join/YObVqHVh",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/0f/b1/a20fb10c-e33f-4c28-b111-a057548912fd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "HomeCharger",
+        "url": "https://testflight.apple.com/join/hZ9CLqxh",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/8b/05/948b0589-4449-f478-ce6a-6b7e26bd47ab/AppIcon-1x_U007ephone-0-0-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Shadowsocks Client",
+        "url": "https://testflight.apple.com/join/3unbWfmA",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/bf/49/eebf4921-a177-724d-b739-462b31881966/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Zulip",
+        "url": "https://testflight.apple.com/join/ZuzqwXGf",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/9f/a7/299fa719-dcd6-0f27-dd70-1a786ee6ed35/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AstroDX-Beta (Group A)",
+        "url": "https://testflight.apple.com/join/rACTLjPL",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b9/1f/2fb91fdd-9112-4022-3a26-66ba365aef0b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AstroDX-Beta (Group B)",
+        "url": "https://testflight.apple.com/join/ocj3yptn",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/02/4a/fc024af6-a301-c97d-59bf-ad27a8d300e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AstroDX-Beta (Group C)",
+        "url": "https://testflight.apple.com/join/CuMxZE2M",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/8e/4b/818e4b03-9fa0-a04b-e11c-e9b1b35117b5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AstroDX-Beta (Group D)",
+        "url": "https://testflight.apple.com/join/T6qKfV6f",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/60/4f/cb604ff5-ea53-4e04-e0d2-abaae5ddc401/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Finamp",
+        "url": "https://testflight.apple.com/join/UqHTQTSs",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b5/7c/d7b57c9f-1604-6c1b-5f6f-5904278d6215/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Chatwoot",
+        "url": "https://testflight.apple.com/join/yQ4yoSx4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/73/82/6a738202-a63e-b68b-f2d6-b1ebd7c0b48b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Tusker",
+        "url": "https://testflight.apple.com/join/wtB7HYvG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/75/58407543-32b9-29ac-0b01-138016c5ea87/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AiChat - LLM",
+        "url": "https://testflight.apple.com/join/GR4BOt2M",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/e4/7d/4ee47deb-b2e2-ffbb-a36b-042942218fe9/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Breez: Lightning Client & POS",
+        "url": "https://testflight.apple.com/join/wPju2Du7",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/26/e0/2126e08e-bbc2-5383-96a2-515e74a57e48/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Delta Chat",
+        "url": "https://testflight.apple.com/join/uEMc1NxS",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/cf/a8/6ecfa862-97b5-99b6-1d80-e311c6681cb2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Vibefy",
+        "url": "https://testflight.apple.com/join/he8gBuuY",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/21/e2/9c21e27f-3980-67cd-c344-1c70cd232acb/App_Icon-marketing.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "Sonolus",
+        "url": "https://testflight.apple.com/join/mdFtAf92",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ba/71/faba7174-f05c-d899-915a-87cbda8e4ecf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ListenBrainz",
+        "url": "https://testflight.apple.com/join/f0kxAV8e",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/da/06/37da061d-cb9c-b119-0a28-cec25e0d5182/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u4e34\u5e16\u5b9d",
+        "url": "https://testflight.apple.com/join/osgIInpj",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/e2/83/5ae28390-4545-b7da-ccc0-b4d26c1972c8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "NaMi",
+        "url": "https://testflight.apple.com/join/YGeELMUq",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/0e/26/b80e26a2-23ab-c425-fb3e-6000602bf892/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "StableBrowser",
+        "url": "https://testflight.apple.com/join/5R8Z9JyS",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/64/34/076434be-8cd2-a0da-6697-807ec0e2cbda/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SuperNews: custom news app",
+        "url": "https://testflight.apple.com/join/SKj6fn5k",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/16/e0/0516e05e-3ffc-fe7a-d575-9e71bfc0f8e0/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "Get10101",
+        "url": "https://testflight.apple.com/join/WhwnPUh8",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/03/18/6d0318af-9c6d-cfce-4a91-34e8c8fe90c3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Mopro Benchmark",
+        "url": "https://testflight.apple.com/join/TBlBDicy",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/0c/f3/8f0cf345-d69a-ec59-edf1-2e2405df08a9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Nearest Color",
+        "url": "https://testflight.apple.com/join/XSTycxqX",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Annix",
+        "url": "https://testflight.apple.com/join/ZWXnvupI",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/37/cb/2237cbed-4878-e8ec-42f1-2d31416560dc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Oura Widget",
+        "url": "https://testflight.apple.com/join/ZkxJiTh9",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/d8/19/5ad8198c-2abc-c7cc-029f-e5b35a333ee3/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "iSH-AOK",
+        "url": "https://testflight.apple.com/join/X1flyiqE",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/41/09/4641094d-37ce-d988-cb47-e8e479cc50d7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "RN 100ms",
+        "url": "https://testflight.apple.com/join/v4bSIPad",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/49/c0/a949c084-4e73-dc6b-e3f8-823ccea993f8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u6587\u6848\u4f34\u4fa3",
+        "url": "https://testflight.apple.com/join/NCjMVRrX",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/8b/f7/da8bf78c-5f63-430c-62ab-fbfcdcee8d3c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "DeskCam",
+        "url": "https://testflight.apple.com/join/JjlQp2qa",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/86/d4/a886d408-04ac-85ac-2333-5b20c3d6544b/AppIcon-0-0-85-220-0-4-0-2x.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Jitsi Meet",
+        "url": "https://testflight.apple.com/join/isy6ja7S",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/d1/58/29d158eb-89e9-49a5-e922-3449e48c343a/AppIconRelease-1x_U007emarketing-0-6-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SimpleX Chat: secure messenger",
+        "url": "https://testflight.apple.com/join/DWuT2LQu",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ae/10/63ae109d-168d-d1d3-1b5b-f27992019591/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Zavala",
+        "url": "https://testflight.apple.com/join/iFbND23m",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/30/85/e03085be-348b-cb12-1101-29ce3635f6ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "HMSRoomKitExample",
+        "url": "https://testflight.apple.com/join/Pb4aTS0t",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ea/f7/d3eaf755-283b-b3a4-3943-c46683f5c0d1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Elgato Stream Deck Connect",
+        "url": "https://testflight.apple.com/join/U4bWfk8O",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/86/5a/a1865ae8-4f61-ea9f-8af3-0898fc66ac69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Audiobookshelf App",
+        "url": "https://testflight.apple.com/join/wiic7QIW",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c0/8f/14c08f89-e46e-9075-301d-eac6f06302aa/Icons-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Podverse",
+        "url": "https://testflight.apple.com/join/VpxVTOsT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/96/e1/aa96e1f6-7126-0985-813e-8d0543720228/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Picsart AI Photo Video Editor",
+        "url": "https://testflight.apple.com/join/d4gDz5s7",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/de/f6/0fdef6fd-3d15-3ddf-da18-ec3f4988a919/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Artstudio Pro BETA",
+        "url": "https://testflight.apple.com/join/9xl0Mh0S",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/1d/d7/3b1dd711-2508-a85b-e8b6-a7b95cf1a1f5/AppIconBeta-0-0-1x_U007emarketing-0-4-0-sRGB-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Swiftfin",
+        "url": "https://testflight.apple.com/join/SqNPfdxq",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SonicJot",
+        "url": "https://testflight.apple.com/join/Sr6LHdsR",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3a/e6/423ae658-c55d-1247-a5be-a515529f72af/AppIcon-0-85-220-4-0-0-2x-0-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Citations",
+        "url": "https://testflight.apple.com/join/vxobmPVp",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/ae/6b/11ae6bd7-2a08-8a3f-57b0-ceda36595b73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Quotify: Save Your Quotes",
+        "url": "https://testflight.apple.com/join/HZievj8p",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/fa/8c/f7fa8cf3-dbff-e6d6-a006-d34956be0407/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Carbon Browser",
+        "url": "https://testflight.apple.com/join/Nd0sc84V",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/dc/dc/61dcdcc6-d703-5d50-75b2-db4a17bfff8a/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Alook Browser - 8x Speed",
+        "url": "https://testflight.apple.com/join/I4MFSZp1",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/04/31/040431dc-594a-e0ba-246b-cff13ab13f2d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Komodo Mobile Crypto Wallet",
+        "url": "https://testflight.apple.com/join/c2mOLEoC",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/7f/e7/137fe733-71de-1ad1-3d61-9eccc2c10d41/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Wallet 3",
+        "url": "https://testflight.apple.com/join/5acvlgyK",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/06/b8/6406b830-15ab-585e-eb8f-711c4db2453d/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "J-Wallet",
+        "url": "https://testflight.apple.com/join/ie76LZCG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/d5/f6/b1d5f63f-ade0-224e-7c29-9afaf9d30e3b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Candide Wallet",
+        "url": "https://testflight.apple.com/join/XJJHACbF",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/93/db/e593db5e-f27a-6166-c5ba-5cadeed033cd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "StrikeX | DeFi Crypto Wallet",
+        "url": "https://testflight.apple.com/join/gqY0LHSd?utm_source=TestFlight",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2b/e3/842be385-cee1-3e3b-3cda-81235d9ad9e5/Default-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Rate That Crypto",
+        "url": "https://testflight.apple.com/join/mxohmjCJ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/4b/54/274b54d0-95cf-95fc-a241-c1538df722de/AppIcon-1x_U007ephone-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Bolt Charger",
+        "url": "https://testflight.apple.com/join/Hhm685us",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/cc/2f/67cc2fd9-4467-ed15-dcf3-a0caeac8ec19/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "WebSSH - SysAdmin Tools",
+        "url": "https://testflight.apple.com/join/QSrBK59z",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/2e/cd/022ecdf8-2591-80a8-c3d6-130501e20181/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Dronelink Flight",
+        "url": "https://testflight.apple.com/join/PumJOBFK",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/26/b3/d526b3fe-8710-d6b4-e77d-39b4b4106f28/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "S3XY Watch",
+        "url": "https://testflight.apple.com/join/194LkkmW",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/4d/c9/9f4dc92e-60e7-9acd-04a6-6daaf38de8db/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "NotePlan - To-Do List & Notes",
+        "url": "https://testflight.apple.com/join/fm9q4OjE",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/19/eb/8e19ebc5-1e7f-022e-872c-dff94e1e0573/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Marker - YouTube Chapters",
+        "url": "https://testflight.apple.com/join/L0Mh507n",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/9c/1e/7e9c1e3d-e01b-8571-70c1-71b28eafee03/AppIcon-0-1x_U007emarketing-0-8-0-P3-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Chronicle - Bill Organizer",
+        "url": "https://testflight.apple.com/join/w40ogK7n",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/07/7e/7d077e8d-cdf6-3ea1-2236-d1128cbb1275/iconLight-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Monzo Bank - Mobile Banking",
+        "url": "https://testflight.apple.com/join/2NZLBFyb",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/35/32/c2353222-4fa9-42f7-f396-7b518a63081f/AppIconProd-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Fit:match - 3D Scan & Shop",
+        "url": "https://testflight.apple.com/join/F6F6m6eg",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/5e/ab/b65eab75-622a-a268-4a8b-08b4d4c58c02/AppIcon-1x_U007ephone-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Backcountry Ski - Beta App",
+        "url": "https://testflight.apple.com/join/6FXz5GT5",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/6a/3c/946a3ca5-1cba-f797-9d03-c2c24a29c254/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Ambre: Recipe Organizer",
+        "url": "https://testflight.apple.com/join/zIHhY5L1",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f0/5a/47f05a23-bc1b-f382-26d5-076ebc930503/AppIcon-0-1x_U007epad-0-0-0-1-0-P3-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "RecipeChef: Recipe Manager",
+        "url": "https://testflight.apple.com/join/j5urtlwj",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5e/ff/295eff6e-2fd4-07aa-8223-00b150768465/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Tap Tap Reloaded",
+        "url": "https://testflight.apple.com/join/SpvyEydY",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/0c/34/a70c34e0-927f-7626-12dd-13e7aa172a60/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u4ed9\u5251\u4e09",
+        "url": "https://testflight.apple.com/join/ypI5moed",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/22/88/fe22880e-476a-8c8f-acdd-580f29c89702/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Dungeon Ward: Souls & Dragons",
+        "url": "https://testflight.apple.com/join/Kyg7sbis",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/64/a6/1864a6bd-b043-f84f-9e11-a7c01a51c40e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Balance: Meditation & Sleep",
+        "url": "https://testflight.apple.com/join/5V7gW8Zc",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/45/89/e345893a-32c7-de70-82d3-35270fd87322/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "WidgetHealth - Widget & Health",
+        "url": "https://testflight.apple.com/join/G0Wh2Ft0",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3a/ff/673affb4-c9a2-8e3c-5570-54424531a597/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Speechable - Text to Voice",
+        "url": "https://testflight.apple.com/join/8OYs1O2V",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/52/67/665267c1-9968-bac3-820d-924349015d67/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Velja",
+        "url": "https://testflight.apple.com/join/2dTcUTtL",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/b5/84/95b584da-8f0c-f840-7937-173b2ed58d93/AppIcon-0-0-85-220-0-4-0-2x.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Waterlogue Pro",
+        "url": "https://testflight.apple.com/join/aoTvN3kT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/e7/55/19e7555e-e74f-a6a6-0af1-cd7df0a256dd/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Focus \u2013 Productivity Timer",
+        "url": "https://testflight.apple.com/join/4GWAwNsU",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/70/97/a8709720-3587-da1f-07a1-8a1ee6d94156/AppIcon-0-85-220-0-4-0-0-2x-sRGB-0-0-0-0-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Foursquare City Guide",
+        "url": "https://testflight.apple.com/join/At7rr385",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/e8/73/e0e873aa-3113-1464-9a40-df4b2688af06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "TomTom AmiGO GPS Maps, Traffic",
+        "url": "https://testflight.apple.com/join/IOxARzyI",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c9/ac/e6c9acc2-a3b8-ee76-4878-c9f355e92cf7/AppIconBeta-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "FunimBeta",
+        "url": "https://testflight.apple.com/join/S3LneucB",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/94/02/8f940267-ff90-d0d0-4e2c-f7d376995131/AppIcon-0-1x_U007epad-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Rooms - \u0631\u0648\u0645\u0632",
+        "url": "https://testflight.apple.com/join/Z9Elx1Aj",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/73/3c/f7733c77-86ff-1897-e717-4af86446ecf2/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "TopiBowl",
+        "url": "https://testflight.apple.com/join/6oGhKChE",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/ab/54/4fab54ae-ee16-8645-fc91-13e56a0c3190/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Picme - Get the Real Picture.",
+        "url": "https://testflight.apple.com/join/MmJ4tvUr",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/9b/ae/609baed1-2add-d016-ecdc-3817176ab505/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "DateStamper",
+        "url": "https://testflight.apple.com/join/1SjoJEhx",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/35/a4/1835a456-f3fc-375c-8849-4ecbc02f1801/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "I Remember When",
+        "url": "https://testflight.apple.com/join/hEh8SXPI",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/83/23/9c83234d-d344-a7a6-2c6c-881778b57f6e/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Neuecast",
+        "url": "https://testflight.apple.com/join/a4bmx5rA",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d5/1f/24d51f24-453a-428f-0112-ffbe572801e8/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Podcast Republic - Podcast App",
+        "url": "https://testflight.apple.com/join/y8zpsf0p",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/51/b0/f451b087-3e3c-ab57-84cc-6feb9c45e99c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Interact - Social Network",
+        "url": "https://testflight.apple.com/join/Bp907Kgh",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/83/f7/7683f76e-d5e5-6843-144a-807357489965/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "RFOX VALT",
+        "url": "https://testflight.apple.com/join/bPUkXcr3",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d3/a0/64d3a07a-d7e2-6965-3eeb-ad2ee532a56e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SOTAM\u0100T SOTA / POTA Spotting",
+        "url": "https://testflight.apple.com/join/UQuW6g1E",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/91/8c/7f918c72-ca46-76b4-4fbb-b666f331edf2/appicon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Peeree",
+        "url": "https://testflight.apple.com/join/nEontnke",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/44/99/f844991e-09b6-b6be-24c1-8d93a20f12fb/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "BETANDYOU - Best bets for you",
+        "url": "https://testflight.apple.com/join/x6aMHlck",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f3/67/cdf3674e-0776-8c6b-ad69-ba58c4933335/AppIcon-0-0-1x_U007epad-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "TRViS",
+        "url": "https://testflight.apple.com/join/yYBaAdqX",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/ab/a3/cbaba30a-49b0-1253-8c95-3510dd0f56ed/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Topo Maps by Landscape",
+        "url": "https://testflight.apple.com/join/SrVraMCy",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/44/4a/8a444a87-cfbd-faf1-051f-463445a41b0c/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Streamie",
+        "url": "https://testflight.apple.com/join/qcOTQQaL",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e3/a8/7ce3a88c-7aa9-0386-00da-cd1ca8d97860/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Mileage Tracker - Magica",
+        "url": "https://testflight.apple.com/join/zyB4wpjx",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/ac/24/c0ac24e1-a9ea-0813-f670-2d1a57cc28e2/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Speechless: audios to texts",
+        "url": "https://testflight.apple.com/join/LDy50x1A",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6f/2a/1c6f2a8b-da3e-1ad1-b571-25f5c9262df4/AppIconBeta-0-0-1x_U007epad-0-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "Tally \u2022 Quick Counter",
+        "url": "https://testflight.apple.com/join/zbUiqcxg",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/d7/e6/b9d7e691-f854-1f47-a86c-3f1f35acb783/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Datadog",
+        "url": "https://testflight.apple.com/join/UNFB4E9Q",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/a8/3d/58a83db5-386e-b8ac-2441-39581749fdcd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "StageLight - DMX Controller",
+        "url": "https://testflight.apple.com/join/X1Ja2Mai",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/77/5a/8d775aba-7299-b53d-8a69-30da9de2903a/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Check Later",
+        "url": "https://testflight.apple.com/join/B4cD7aRC",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/6c/f8/666cf814-76cd-f9c5-19de-6e15cff6e8c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "app.list",
+        "url": "https://testflight.apple.com/join/hf7HdF2z",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/50/9c/76509c06-19d0-df9c-d564-122bedf30582/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "PCalc TV",
+        "url": "https://testflight.apple.com/join/DR5CMmej",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/cf/48/70cf48ea-189a-5aaf-682e-e222849294b7/App_Icon_-_Small-marketing.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "Maikr",
+        "url": "https://testflight.apple.com/join/61cBo7QN",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d1/e5/f5d1e50a-92f2-e721-5ac7-3a20a4cff4e3/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ShufflePlay",
+        "url": "https://testflight.apple.com/join/OXkxF2Zt",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/ee/03/37ee0318-0c0c-e9d2-4dc8-2ebf881667d1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Barcodes: Loyalty Card Wallet",
+        "url": "https://testflight.apple.com/join/bD6QW9pJ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/8e/41518e02-fb7d-606b-5722-dcee117d2557/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Inventory - Asset Management",
+        "url": "https://testflight.apple.com/join/aXKHypal",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/4f/1f/d64f1feb-9e2e-a3a6-1292-a9f8c4e1735d/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "AirTranslate",
+        "url": "https://testflight.apple.com/join/KCXjdJnt",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/3e/9e/fc3e9e42-1649-b54a-f78b-5b6b6b558e5f/AppIcon-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Homepage for Safari",
+        "url": "https://testflight.apple.com/join/y7e92WCb",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/04/2d/26042d1b-4aef-f011-6c34-953080fc7c39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "PicGuard",
+        "url": "https://testflight.apple.com/join/dJtmRXVc",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/b4/57/36b4570d-50d4-111d-a6b9-e6320021378e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "PicGuard (Desktop)",
+        "url": "https://testflight.apple.com/join/Z1Tp6uBu",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/a0/4e/a0a04ead-aff1-a9f0-b0bd-59eb8d175a87/AppIcon-0-0-85-220-0-4-0-2x.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Nabox Wallet",
+        "url": "https://testflight.apple.com/join/P3ASFT8F",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/51/ec/6551ec01-3500-2932-4b4c-aa5ceb6ee9b4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SceneVisualizer",
+        "url": "https://testflight.apple.com/join/8RFt3Tn0",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/eb/ca/08ebca81-1c63-dbdc-c2a0-fc2e8b88ab3a/AppIcon.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "VideoCallKit",
+        "url": "https://testflight.apple.com/join/99XUgGHI",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/97/67/ed97674b-69b4-3957-ef69-97490b0c8e25/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Stanford Study App",
+        "url": "https://testflight.apple.com/join/wlseiMRR",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/78/bc/5278bc9b-5730-03d8-6997-143560ab1b93/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "100ms",
+        "url": "https://testflight.apple.com/join/dhUSE7N8",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/d0/96/dbd09675-86fd-87ca-4d81-e616a037f230/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Shattered Pixel Dungeon",
+        "url": "https://testflight.apple.com/join/4PWFyask",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/66/02/976602a0-9ba3-3e39-9618-ccf1208d22b9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Hymns for Worship",
+        "url": "https://testflight.apple.com/join/tG4e3S2F",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3e/6e/583e6e64-0181-c4d3-483c-ab9ce4319ff8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Reachable Boarding",
+        "url": "https://testflight.apple.com/join/9UVXZH8s",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/e3/2b/0fe32bf7-52a1-259a-91f1-a44d5aed5bb8/AppIcon-1x_U007ephone-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Nombres",
+        "url": "https://testflight.apple.com/join/NuON0fEq",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/d4/95/dcd4951a-61df-dce3-b4f3-e3a8c7b0f0f2/AppIcon-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Immich",
+        "url": "https://testflight.apple.com/join/1vYsAa8P",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/72/8d/ed728d0d-b14f-ed48-c6d5-0a8ce60e6d89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Chameleon Ultra GUI",
+        "url": "https://testflight.apple.com/join/UgwgfMqo",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/1a/cb/4f1acb32-9771-109d-073f-f65d4f65450e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Three Cheers for Tildes",
+        "url": "https://testflight.apple.com/join/mpVk1qIy",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/0c/a2/670ca2c2-6df2-3f34-8fba-3a200ef9d424/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "nymea:app",
+        "url": "https://testflight.apple.com/join/Y5MifPpT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/00/c4/be00c468-be4e-1f22-913b-1f98369575bb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "End Jet Lag",
+        "url": "https://testflight.apple.com/join/YXixDWej",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/df/93/bedf9317-0d69-f91e-cd27-14a3542bed50/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "pt.KeePass",
+        "url": "https://testflight.apple.com/join/pqgkiiaU",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/5b/f0/0b5bf0aa-633d-1d77-2693-c43364723457/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Just RSS",
+        "url": "https://testflight.apple.com/join/WsfbPUH1",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/65/9c/e9659c36-0032-c835-5bda-1b088459680a/AppIcon-0-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "IPv64.net",
+        "url": "https://testflight.apple.com/join/DdBc50Kl",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/76/a5/6c76a5d8-6c9e-d744-6c82-e9ebfbd15296/AppIcon-0-1x_U007epad-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\u5143\u5915",
+        "url": "https://testflight.apple.com/join/eVmnwilc",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/e0/82/60e08271-6284-6921-b233-a39965342188/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Expensee: organize finances",
+        "url": "https://testflight.apple.com/join/GaVYNQb5",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/7b/f8/ce7bf8db-5fdc-5899-f3d8-20ed86a921e8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Clinical Dementia Rating",
+        "url": "https://testflight.apple.com/join/vCvP7h1s",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b4/3a/30b43a9b-7416-f0c7-36ab-e2f631e368c3/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Geriatric Assessment",
+        "url": "https://testflight.apple.com/join/HExHWotG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/cc/55/5acc55d5-c3f3-0445-bbe7-c42160e1ce74/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "a-Shell",
+        "url": "https://testflight.apple.com/join/WUdKe3f4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/89/26/d7892692-bb92-9533-a4ae-4136052f048d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Spezi Template Application",
+        "url": "https://testflight.apple.com/join/ipEezBY1",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/8c/a9/138ca92f-ce05-e9df-ecec-9a5e749f4258/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "VA: Health and Benefits",
+        "url": "https://testflight.apple.com/join/65PnVx09",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/3a/d7/fc3ad78b-8c59-9a03-c521-0fafd0064eed/AppIcon-QA-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Taco Universe - WAX Gaming",
+        "url": "https://testflight.apple.com/join/jdUTGInd",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3c/d7/213cd783-7c99-d38c-5cac-6c875e53a94e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Kurviger Motorcycle Navigation",
+        "url": "https://testflight.apple.com/join/Y2eMnS3D",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/e7/c6/8ee7c650-a137-e5bd-6bda-7b601109b103/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "(RT)KCGI\ud380\ub4dc\ud22c\uc790 (\uad6c)\uba54\ub9ac\uce20 \ud380\ub4dc\ud22c\uc790",
+        "url": "https://testflight.apple.com/join/1Q52aiKP",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/c6/ed/20c6eda5-ae69-91f7-4cfd-33ffb2efa8be/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ub7f0\ubd95\uc571",
+        "url": "https://testflight.apple.com/join/9EQXG6MA",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c6/f0/48c6f081-8f24-ee4b-7b92-707388153061/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ucee8\uc124\ud15d\uc2a4",
+        "url": "https://testflight.apple.com/join/1YiOYdID",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ub2ec\ubcf4\uc774\uc2a4 \ud50c\ub7ec\uc2a4",
+        "url": "https://testflight.apple.com/join/OJfvaCjH",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/35/af/c335af4f-dba9-cd3a-23ef-608a416fc7eb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\uce90\uc2dc\uc6cc\ud06c - \ub3c8 \ubc84\ub294 \ub9cc\ubcf4\uae30",
+        "url": "https://testflight.apple.com/join/UZmPaJma",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/73/e2/f973e2fe-8e10-2d10-344d-f3c460c43df8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\uc11c\uc6b8\uc804\ud654\uc218\ucca9",
+        "url": "https://testflight.apple.com/join/J91XtAlZ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/52/7a/f9527a79-7098-c5d4-85b8-34830c5fcba0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ubaa8\ube4c\ub9ac\uc5b8\uc2a4\uce74\ub4dc",
+        "url": "https://testflight.apple.com/join/CXpMPPds",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/0f/76/090f7605-898e-2525-6442-86b43981e449/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ub108\uc5d0\uac8c",
+        "url": "https://testflight.apple.com/join/gVfVbU5h",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/45/93/dc45933a-e2df-8db2-daee-3b0d32617c5e/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ub514\ud50c\ub86f",
+        "url": "https://testflight.apple.com/join/dHtB6TP4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/1b/83/981b832e-ffc2-30a1-6e23-30b34b26a360/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\uc2a4\ub9c8\ud2b8\ubcd1\ub3d9 \ubc14\uc774\ud0c8\ub77c\uc774\ube0c",
+        "url": "https://testflight.apple.com/join/9TJFY2N4",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/c8/fc/0bc8fc7d-64cd-cbd0-422e-492460596f3f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\ud30c\uc2a4\ud0c0(PASTA) - \uc2a4\ub9c8\ud2b8\ud55c \ud608\ub2f9 \uad00\ub9ac",
+        "url": "https://testflight.apple.com/join/yhBI4UlH",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/47/58/de4758f7-94f1-29bf-65bf-4bcec80b3b20/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\uc9c1\ubc29 LOUNGE",
+        "url": "https://testflight.apple.com/join/4Boythev",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/04/ae/8604aea6-9a1a-c743-2ca6-2b0f074f20aa/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "\uace0\ubbfc\uc90c\uc778",
+        "url": "https://testflight.apple.com/join/T8SyNFtP",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/c1/47/fcc14771-5383-e40a-5ccf-21df421828d7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Fair Plus",
+        "url": "https://testflight.apple.com/join/Ao0G8UZD",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c4/e4/6cc4e418-ed91-edde-f426-2632603241bf/AppIcon-Plus-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "TracyPlayer",
+        "url": "https://testflight.apple.com/join/eNmYbmZN",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/8b/d9/738bd987-c5cc-169a-f165-e3b7aa0e46a8/AppIcon-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "ChocLite",
+        "url": "https://testflight.apple.com/join/cLy4Ub5C",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/77/25/597725d9-55d7-62ba-fe99-a6383c9afd85/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Peercoin Wallet",
+        "url": "https://testflight.apple.com/join/iilc4SvQ",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/4f/2e/7c4f2ecb-14e7-72dd-10c0-5a6cd94077ac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "100ms Live",
+        "url": "https://testflight.apple.com/join/Uhzebmut",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/48/f9/4b48f9b8-d014-6f58-0b36-aad1c1b657f0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "JoyDev",
+        "url": "https://testflight.apple.com/join/NoiaKmoN",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/77/6c/d6776c53-3736-8072-2a82-3d003e6b26e2/AppIcon-0-1x_U007epad-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Joplin",
+        "url": "https://testflight.apple.com/join/p5iLVzrG",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/cc/8d/20cc8d1e-d2c1-d8ab-e7a4-4ac2dc260d5d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "WalletAppV2",
+        "url": "https://testflight.apple.com/join/09bTAryp",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/08/4e/e4084e86-774d-355d-6eaa-6ec59457a00a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Jim's Calorie Counter",
+        "url": "https://testflight.apple.com/join/jeJhdDVC",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/52/94/325294a0-af35-b746-90de-203ff45bc5dc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "iTelevision",
+        "url": "https://testflight.apple.com/join/woLYKBj6",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/3d/9f/7b3d9f59-43ac-bc14-5176-384d5bb5c925/App_Icon-marketing.lsr/1920x1080bb-80.png"
+    },
+    {
+        "name": "Open Trickler",
+        "url": "https://testflight.apple.com/join/1XSoUPL3",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0c/42/850c42f3-2cde-9a66-6f38-0980cadde36b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/1920x1080bb-80.png"
     }
 ]
