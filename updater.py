@@ -4,6 +4,7 @@ import logging
 import json
 import time
 import coloredlogs
+import os
 
 # Configure logging with colored output
 coloredlogs.install(level='DEBUG', fmt='%(asctime)s - %(levelname)s - %(message)s')
@@ -61,25 +62,48 @@ def fetch_app_name(app_url, retries=3):
     else:
         return None
 
+def load_existing_results(output_file):
+    if os.path.exists(output_file):
+        with open(output_file, 'r') as json_file:
+            return json.load(json_file)
+    return []
+
 def save_results(results, output_file):
+    existing_results = load_existing_results(output_file)
+    unique_results = {result['url']: result for result in existing_results + results}
+    unique_results_list = list(unique_results.values())
+
     try:
         with open(output_file, 'w') as json_file:
-            json.dump(results, json_file, indent=4)
+            json.dump(unique_results_list, json_file, indent=4)
         logging.info(f"Data has been written to {output_file}")
     except IOError as e:
         logging.error(f"Error writing to file {output_file}: {e}")
 
+def search_github_for_urls():
+    search_query = 'https://testflight.apple.com/join/'
+    url = f'https://api.github.com/search/code?q={search_query}'
+    headers = {
+        'Authorization': f'token {os.getenv("TOKENS")}',
+        'Accept': 'application/vnd.github.v3+json'
+    }
+
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        results = response.json().get('items', [])
+        urls = []
+        for item in results:
+            if 'html_url' in item:
+                urls.append(item['html_url'])
+        return urls
+    else:
+        logging.error(f"Error searching GitHub: {response.status_code}")
+        return []
+
 def main():
-    input_file = 'urls.txt'  # Change this to your actual input file path
     output_file = 'output.json'  # Change this to your desired output file path
 
-    try:
-        with open(input_file, 'r') as file:
-            urls = file.read().splitlines()
-    except IOError as e:
-        logging.error(f"Error reading file {input_file}: {e}")
-        return
-
+    urls = search_github_for_urls()
     results = []
 
     for url in urls:
