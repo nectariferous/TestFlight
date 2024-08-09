@@ -1,0 +1,5 @@
+Flask==2.3.2
+flask-cors==3.0.10
+requests==2.31.0
+beautifulsoup4==4.12.2
+coloredlogs==15.0.1
