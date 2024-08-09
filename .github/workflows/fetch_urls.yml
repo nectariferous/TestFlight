@@ -1,6 +1,7 @@
 name: Fetch and Process URLs
 
 on:
+  workflow_dispatch:  # Allows manual triggering
   schedule:
     - cron: '0 * * * *'  # Runs every hour
 
