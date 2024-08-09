@@ -82,7 +82,7 @@ def save_results(results, output_file):
 
 def search_github_for_urls():
     search_query = 'testflight.apple.com/join'
-    url = f'https://api.github.com/search/code?q={search_query}'
+    url = f'https://api.github.com/search/code?q={search_query}&type=code'
     headers = {
         'Authorization': f'token {os.getenv("TOKENS")}',
         'Accept': 'application/vnd.github.v3+json'
