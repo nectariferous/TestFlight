@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VorTex App Store</title>
+    <style>
+        :root {
+            --bg-color: #f8f9fa;
+            --text-color: #000000;
+            --card-bg: #ffffff;
+            --button-color: #007aff;
+            --border-color: #e0e0e0;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #000000;
+                --text-color: #ffffff;
+                --card-bg: #1c1c1e;
+                --button-color: #0a84ff;
+                --border-color: #2c2c2e;
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 34px;
+            font-weight: bold;
+        }
+
+        .profile-icon {
+            width: 30px;
+            height: 30px;
+            background-color: #ccc;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+
+        .search-bar {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            padding: 10px 15px;
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            border: 1px solid var(--border-color);
+        }
+
+        .search-bar input {
+            border: none;
+            background: transparent;
+            flex-grow: 1;
+            font-size: 17px;
+            color: var(--text-color);
+        }
+
+        .search-bar input:focus {
+            outline: none;
+        }
+
+        .charts {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .chart-card {
+            flex: 1;
+            background-color: var(--card-bg);
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s;
+            border: 1px solid var(--border-color);
+        }
+
+        .chart-card:hover {
+            transform: scale(1.05);
+        }
+
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .app-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .app-item {
+            display: flex;
+            align-items: center;
+            background-color: var(--card-bg);
+            border-radius: 15px;
+            padding: 15px;
+            transition: transform 0.2s;
+            border: 1px solid var(--border-color);
+        }
+
+        .app-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .app-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 15px;
+            margin-right: 15px;
+            object-fit: cover;
+        }
+
+        .app-info {
+            flex-grow: 1;
+        }
+
+        .app-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .app-description {
+            font-size: 14px;
+            color: #888;
+        }
+
+        .get-button {
+            background-color: var(--button-color);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .get-button:hover {
+            opacity: 0.9;
+        }
+
+        .update-button {
+            background-color: #e0e0e0;
+            color: var(--text-color);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            color: var(--text-color);
+        }
+
+        #theme-toggle {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 24px;
+            cursor: pointer;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Search</h1>
+            <div>
+                <button id="theme-toggle">🌓</button>
+                <div class="profile-icon"></div>
+            </div>
+        </div>
+
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Games, Apps, Stories and More">
+        </div>
+
+        <div class="section-title">Charts</div>
+        <div class="charts">
+            <div class="chart-card" id="top-apps">Top Apps</div>
+            <div class="chart-card" id="top-games">Top Games</div>
+        </div>
+
+        <div class="section-title">Suggested</div>
+        <div id="app-list" class="app-list">
+            <!-- App items will be dynamically inserted here -->
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">Loading more apps...</div>
+    </div>
+
+    <script>
+        let currentPage = 1;
+        const appsPerPage = 10;
+        let isLoading = false;
+
+        function loadApps(page) {
+            if (isLoading) return;
+            isLoading = true;
+            document.getElementById('loading').style.display = 'block';
+
+            fetch(`/api/apps?page=${page}&limit=${appsPerPage}`)
+                .then(response => response.json())
+                .then(data => {
+                    const appList = document.getElementById('app-list');
+                    data.forEach(app => {
+                        const appItem = document.createElement('div');
+                        appItem.className = 'app-item';
+                        appItem.innerHTML = `
+                            <img src="${app.logo}" alt="${app.name}" class="app-icon">
+                            <div class="app-info">
+                                <div class="app-name">${app.name}</div>
+                                <div class="app-description">${app.description || 'No description available'}</div>
+                            </div>
+                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')">View on TestFlight</button>
+                        `;
+                        appList.appendChild(appItem);
+                    });
+                    currentPage++;
+                    isLoading = false;
+                    document.getElementById('loading').style.display = 'none';
+                })
+                .catch(error => {
+                    console.error('Error loading apps:', error);
+                    isLoading = false;
+                    document.getElementById('loading').style.display = 'none';
+                });
+        }
+
+        function viewOnTestFlight(url) {
+            window.open(url, '_blank');
+        }
+
+        function searchApps() {
+            const query = document.getElementById('search-input').value;
+            const appList = document.getElementById('app-list');
+            appList.innerHTML = '';
+            currentPage = 1;
+
+            fetch('/api/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ query: query })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(app => {
+                        const appItem = document.createElement('div');
+                        appItem.className = 'app-item';
+                        appItem.innerHTML = `
+                            <img src="${app.logo}" alt="${app.name}" class="app-icon">
+                            <div class="app-info">
+                                <div class="app-name">${app.name}</div>
+                                <div class="app-description">${app.description || 'No description available'}</div>
+                            </div>
+                            <button class="get-button" onclick="viewOnTestFlight('${app.url}')">View on TestFlight</button>
+                        `;
+                        appList.appendChild(appItem);
+                    });
+                })
+                .catch(error => console.error('Error searching apps:', error));
+        }
+
+        function toggleTheme() {
+            document.body.classList.toggle('dark-mode');
+        }
+
+        window.addEventListener('scroll', () => {
+            if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 200) {
+                loadApps(currentPage);
+            }
+        });
+
+        document.getElementById('search-input').addEventListener('keyup', (event) => {
+            if (event.key === 'Enter') {
+                searchApps();
+            }
+        });
+
+        document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+        // Initial load
+        loadApps(currentPage);
+    </script>
+</body>
+</html>
