@@ -81,7 +81,7 @@ def save_results(results, output_file):
         logging.error(f"Error writing to file {output_file}: {e}")
 
 def search_github_for_urls():
-    search_query = 'https://testflight.apple.com/join/'
+    search_query = 'testflight.apple.com/join'
     url = f'https://api.github.com/search/code?q={search_query}'
     headers = {
         'Authorization': f'token {os.getenv("TOKENS")}',
