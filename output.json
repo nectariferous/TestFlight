@@ -2878,5 +2878,20 @@
         "name": "Chouten",
         "url": "https://testflight.apple.com/join/Cg1rAPB8",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ce/8a/12ce8a3c-99a2-cc8d-1232-3c4d8d614328/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Mattermost Beta",
+        "url": "https://testflight.apple.com/join/Q7Rx7K9P",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b5/46/4bb54640-2eb4-295a-e3db-915f8d30f455/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Emerging Wealth",
+        "url": "https://testflight.apple.com/join/d8gZfHIF",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f6/d3/0ff6d3b4-8475-4f02-220d-651eae250df4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "TippspielChallenge",
+        "url": "https://testflight.apple.com/join/oIDNwtUT",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/bf/b5/5abfb55e-437a-1af8-62cd-e48905268458/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png"
     }
 ]
