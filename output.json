@@ -4153,5 +4153,15 @@
         "name": "\u52a0\u5165 Beta \u7248\u201cWeChat\u201d",
         "url": "https://testflight.apple.com/join/xHCJ0qBT",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Fintunes",
+        "url": "https://testflight.apple.com/join/TpHWMmfM",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/77/af/a777af51-2f9e-40c6-958b-2ab7c9f406d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "SugarBot Sugar Intake Counter",
+        "url": "https://testflight.apple.com/join/DALmJA8b",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a5/a1/a7a5a113-c361-6daf-7e22-fbbf04c9627b/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
     }
 ]
