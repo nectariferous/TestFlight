@@ -4173,5 +4173,10 @@
         "name": "AstroTask",
         "url": "https://testflight.apple.com/join/dfravJVj",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/40/b2/df40b2c6-88a9-9213-d498-ebcc60bd901e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Bitwarden Password Manager",
+        "url": "https://testflight.apple.com/join/595lFH7U",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/26/e4/be26e416-04ca-8ef2-bbed-ab1ab5dc6e45/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
     }
 ]
