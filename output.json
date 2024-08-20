@@ -4743,5 +4743,10 @@
         "name": "Home Assistant",
         "url": "https://testflight.apple.com/join/1AlPbnLZ",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/12/c9/a312c9f8-898c-e637-3469-347ee47f432c/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
+    },
+    {
+        "name": "Neuland Next",
+        "url": "https://testflight.apple.com/join/PABWZys2",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/6f/b5/0d6fb5a2-f636-f774-e787-889a7a435991/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
     }
 ]
