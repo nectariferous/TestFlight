@@ -4803,5 +4803,15 @@
         "name": "Peace Booster",
         "url": "https://testflight.apple.com/join/CKxvzEl9",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/5d/fc/245dfc8b-2bb4-630a-7c32-095cc900f483/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "LVN Go",
+        "url": "https://testflight.apple.com/join/BQp7FQuE",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/02/ae/3902ae4d-dc5f-3d42-19e6-6ff0f7b23a30/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/1920x1080bb-80.png"
+    },
+    {
+        "name": "Pangea Testnet",
+        "url": "https://testflight.apple.com/join/ou7KmYiE",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/4f/0d/004f0db5-496e-49e7-b789-300edc383f7c/AppIcon-0-0-1x_U007epad-0-85-220.png/1920x1080bb-80.png"
     }
 ]
